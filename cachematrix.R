@@ -26,7 +26,7 @@ makeCacheMatrix <- function(x = matrix())
   }
   
   ## get the stored inverse of the matrix
-  getmean <- function() 
+  getInverse <- function() 
   {
     m
   }
